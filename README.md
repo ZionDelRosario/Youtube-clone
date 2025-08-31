@@ -34,7 +34,7 @@ This project is a static **clone of YouTube’s homepage** with a focus on:
 
 ## 📷 Preview 
 
-![Screenshot](Images/Screenshots/screenshot1.png)
+![Screenshot](Images/Screenshots/screenshot.png)
 
 ---
 
