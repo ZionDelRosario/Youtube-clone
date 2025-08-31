@@ -32,9 +32,10 @@ This project is a static **clone of YouTube’s homepage** with a focus on:
 
 ---
 
-## 📷 Preview 
-
-![Screenshot](Images/Screenshots/screenshot.png)
+##  Preview
+<p align="center">
+  <img src="images/screenshot.png" alt="YouTube Clone Preview" width="700">
+</p>
 
 ---
 
