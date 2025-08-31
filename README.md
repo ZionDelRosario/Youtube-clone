@@ -26,7 +26,7 @@ This project is a static **clone of YouTube’s homepage** with a focus on:
 ---
 
 ## 🌐 Live Demo
-👉 [View Website](https://ZionDelRosario.github.io/Youtube-clone/)
+👉 [View Website](https://ZionDelRosario.github.io/youtube-clone/)
 
 ---
 
